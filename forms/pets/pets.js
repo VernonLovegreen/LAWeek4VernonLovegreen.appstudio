@@ -5,3 +5,4 @@ withSal = ["Darcy", "Jack", "Jerry", "Marty", "Vito", "Vinny", "Riley", "Saddie"
 console.log(withSal.length)
 withSal.pop()
 console.log(withSal)
+
